@@ -29,20 +29,40 @@ la librairie allourdi le poids total de l'application
 
 # Q7: Noter les nom des différents fichiers qui ont été générés par la commande.
 Réponse: 
+dist/about/index.html           0.53 kB │ gzip: 0.32 kB
+dist/index.html                 0.65 kB │ gzip: 0.37 kB
+dist/assets/style-b4SyXn9O.css  2.18 kB │ gzip: 0.79 kB
+dist/assets/about-D08RWGIN.js   0.15 kB │ gzip: 0.16 kB
+dist/assets/style-Dgd37vtf.js   0.71 kB │ gzip: 0.40 kB
+dist/assets/main-QCVwn2m0.js    3.19 kB │ gzip: 1.13 kB
 
 # Q8 : Noter les nom des différents fichiers .js qui sont chargés au moment du chargement de la page.
-Réponse:
+Réponse: 
+curly-happiness-67x66jwrv5wh59p9-4173.app.github.dev
+font-awesome.min.css
+main-QCVwn2m0.js
+style-Dgd37vtf.js
+style-b4SyXn9O.css
+questions
+Imagequestion.gif
+fontawesome-webfont.woff2?v=4.7.0
+vite.svg
+
 
 # Q9 : Noter les nom des différents fichiers .js qui sont chargés au moment du changement de page.
 Réponse:
-
+about/
+about-D08RWGIN.js
+style-Dgd37vtf.js
+style-b4SyXn9O.css
+vite.svg
 
 # Q10: Quel est l'intérêt de lu Code Splitting d'un point de vue éco-responsable ?
 Réponse:
-
+Le Code Splitting est un levier de sobriété numérique car il permet de réduire les transferts, économiser la batterie, lutter contre l'obsolescence, optimiser le cache
 
 # Q11: Ajouter le screen de votre score :
-Screen:
+Screen: ![alt text](image.png)
 
 
 # Q12:  Proposition 1
