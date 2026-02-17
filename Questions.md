@@ -67,18 +67,18 @@ Screen: ![alt text](image.png)
 
 # Q12:  Proposition 1
 Description: image svg au lieu de gif
-Nb de requête total du parcours de l'utilisateur:
-Taille total des requêtes du parcours de l'utilisateur:
-Taille total des fichiers généré :
+Nb de requête total du parcours de l'utilisateur: 16
+Taille total des requêtes du parcours de l'utilisateur: 318 kB 
+Taille total des fichiers généré : 333 kB
 
 # Q13:  Proposition 2
-Description:
-Nb de requête total du parcours de l'utilisateur:
-Taille total des requêtes du parcours de l'utilisateur:
-Taille total des fichiers généré :
+Description: ne pas mettre autant de réseaux sociaux
+Nb de requête total du parcours de l'utilisateur: 17
+Taille total des requêtes du parcours de l'utilisateur: 310 kB
+Taille total des fichiers généré : 327 kB
 
 # Q14:  Proposition 3
-Description:
-Nb de requête total du parcours de l'utilisateur:
-Taille total des requêtes du parcours de l'utilisateur:
-Taille total des fichiers générés :
+Description: import <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> pas nécessaire
+Nb de requête total du parcours de l'utilisateur: 15
+Taille total des requêtes du parcours de l'utilisateur: 228 kB
+Taille total des fichiers générés : 219 kB
